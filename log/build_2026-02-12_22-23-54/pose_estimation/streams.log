@@ -1,0 +1,17 @@
+[4.210s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/pose_estimation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/pose_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/build --no-deps symlink_data
+[5.188s] running develop
+[5.768s] running egg_info
+[5.823s] writing pose_estimation.egg-info/PKG-INFO
+[5.825s] writing dependency_links to pose_estimation.egg-info/dependency_links.txt
+[5.825s] writing entry points to pose_estimation.egg-info/entry_points.txt
+[5.826s] writing requirements to pose_estimation.egg-info/requires.txt
+[5.826s] writing top-level names to pose_estimation.egg-info/top_level.txt
+[5.943s] reading manifest file 'pose_estimation.egg-info/SOURCES.txt'
+[5.946s] writing manifest file 'pose_estimation.egg-info/SOURCES.txt'
+[6.024s] running build_ext
+[6.025s] Creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages/pose-estimation.egg-link (link to .)
+[6.028s] Installing pose_estimation script to /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/pose_estimation
+[6.030s] 
+[6.030s] Installed /home/kenji/Lakbay_Akbay_ros/build/pose_estimation
+[6.031s] running symlink_data
+[6.161s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/pose_estimation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/pose_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/build --no-deps symlink_data

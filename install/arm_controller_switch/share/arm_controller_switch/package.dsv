@@ -1,0 +1,9 @@
+source;share/arm_controller_switch/hook/pythonpath.ps1
+source;share/arm_controller_switch/hook/pythonpath.dsv
+source;share/arm_controller_switch/hook/pythonpath.sh
+source;share/arm_controller_switch/hook/ament_prefix_path.ps1
+source;share/arm_controller_switch/hook/ament_prefix_path.dsv
+source;share/arm_controller_switch/hook/ament_prefix_path.sh
+source;../../build/arm_controller_switch/share/arm_controller_switch/hook/pythonpath_develop.ps1
+source;../../build/arm_controller_switch/share/arm_controller_switch/hook/pythonpath_develop.dsv
+source;../../build/arm_controller_switch/share/arm_controller_switch/hook/pythonpath_develop.sh

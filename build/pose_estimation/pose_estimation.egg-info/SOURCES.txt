@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+pose_estimation/__init__.py
+pose_estimation/pose_estimation.py
+pose_estimation.egg-info/PKG-INFO
+pose_estimation.egg-info/SOURCES.txt
+pose_estimation.egg-info/dependency_links.txt
+pose_estimation.egg-info/entry_points.txt
+pose_estimation.egg-info/requires.txt
+pose_estimation.egg-info/top_level.txt
+pose_estimation.egg-info/zip-safe
+resource/pose_estimation

@@ -1,0 +1,58 @@
+[0.098s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kenji/Lakbay_Akbay_ros/src/robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kenji/Lakbay_Akbay_ros/install/robot_description
+[0.687s] -- The C compiler identification is GNU 13.3.0
+[0.687s] -- The CXX compiler identification is GNU 13.3.0
+[0.687s] -- Detecting C compiler ABI info
+[0.766s] -- Detecting C compiler ABI info - done
+[0.800s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.802s] -- Detecting C compile features
+[0.804s] -- Detecting C compile features - done
+[0.830s] -- Detecting CXX compiler ABI info
+[1.184s] -- Detecting CXX compiler ABI info - done
+[1.227s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.229s] -- Detecting CXX compile features
+[1.230s] -- Detecting CXX compile features - done
+[1.264s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.203s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.821s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.671s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.574s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.574s] -- Configured 'flake8' exclude dirs and/or files: 
+[4.588s] -- Added test 'lint_cmake' to check CMake code style
+[4.601s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.626s] -- Added test 'xmllint' to check XML markup files
+[4.651s] -- Configuring done (4.5s)
+[4.670s] -- Generating done (0.0s)
+[4.677s] -- Build files have been written to: /home/kenji/Lakbay_Akbay_ros/build/robot_description
+[4.728s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kenji/Lakbay_Akbay_ros/src/robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kenji/Lakbay_Akbay_ros/install/robot_description
+[4.730s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kenji/Lakbay_Akbay_ros/build/robot_description -- -j4 -l4
+[5.015s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kenji/Lakbay_Akbay_ros/build/robot_description -- -j4 -l4
+[5.089s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kenji/Lakbay_Akbay_ros/build/robot_description
+[5.153s] -- Install configuration: ""
+[5.159s] -- Execute custom install script
+[5.160s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/urdf/robot_arm.urdf
+[5.242s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/base_link.STL
+[5.323s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link1.STL
+[5.405s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link2.STL
+[5.465s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link3.STL
+[5.525s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link4.STL
+[5.573s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link5.STL
+[5.628s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link6.STL
+[5.692s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/tool.STL
+[5.741s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/launch/display.launch.py
+[5.795s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/config/config.rviz
+[5.851s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[5.902s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[5.978s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[6.078s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[6.157s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/path.sh
+[6.217s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/path.dsv
+[6.261s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.bash
+[6.338s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.sh
+[6.392s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.zsh
+[6.436s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.dsv
+[6.476s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/package.dsv
+[6.543s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[6.593s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[6.635s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[6.675s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/package.xml
+[6.728s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kenji/Lakbay_Akbay_ros/build/robot_description

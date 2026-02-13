@@ -1,0 +1,1 @@
+/home/kenji/Lakbay_Akbay_ros/src/robot_moveit_config/launch/moveit_rviz.launch.py

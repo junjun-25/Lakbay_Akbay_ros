@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating arm_controller_switch.egg-info
+writing arm_controller_switch.egg-info/PKG-INFO
+writing dependency_links to arm_controller_switch.egg-info/dependency_links.txt
+writing entry points to arm_controller_switch.egg-info/entry_points.txt
+writing requirements to arm_controller_switch.egg-info/requires.txt
+writing top-level names to arm_controller_switch.egg-info/top_level.txt
+writing manifest file 'arm_controller_switch.egg-info/SOURCES.txt'
+reading manifest file 'arm_controller_switch.egg-info/SOURCES.txt'
+writing manifest file 'arm_controller_switch.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/lib/python3.12/site-packages/arm-controller-switch.egg-link (link to .)
+Installing arm_controller_switch script to /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/lib/arm_controller_switch
+
+Installed /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch
+running symlink_data
+creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index
+creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index/resource_index
+creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/resource/arm_controller_switch -> /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/arm_controller_switch

@@ -1,0 +1,2 @@
+[console_scripts]
+arm_controller_switch = arm_controller_switch.arm_controller_switch_node:main

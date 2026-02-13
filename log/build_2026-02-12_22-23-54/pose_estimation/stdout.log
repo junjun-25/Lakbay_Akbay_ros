@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing pose_estimation.egg-info/PKG-INFO
+writing dependency_links to pose_estimation.egg-info/dependency_links.txt
+writing entry points to pose_estimation.egg-info/entry_points.txt
+writing requirements to pose_estimation.egg-info/requires.txt
+writing top-level names to pose_estimation.egg-info/top_level.txt
+reading manifest file 'pose_estimation.egg-info/SOURCES.txt'
+writing manifest file 'pose_estimation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages/pose-estimation.egg-link (link to .)
+Installing pose_estimation script to /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/pose_estimation
+
+Installed /home/kenji/Lakbay_Akbay_ros/build/pose_estimation
+running symlink_data

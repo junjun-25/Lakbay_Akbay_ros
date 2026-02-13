@@ -1,0 +1,24 @@
+[4.634s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/pose_estimation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/pose_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/build --no-deps symlink_data
+[5.838s] running develop
+[6.651s] running egg_info
+[6.652s] creating pose_estimation.egg-info
+[6.731s] writing pose_estimation.egg-info/PKG-INFO
+[6.731s] writing dependency_links to pose_estimation.egg-info/dependency_links.txt
+[6.732s] writing entry points to pose_estimation.egg-info/entry_points.txt
+[6.732s] writing requirements to pose_estimation.egg-info/requires.txt
+[6.733s] writing top-level names to pose_estimation.egg-info/top_level.txt
+[6.735s] writing manifest file 'pose_estimation.egg-info/SOURCES.txt'
+[6.886s] reading manifest file 'pose_estimation.egg-info/SOURCES.txt'
+[6.888s] writing manifest file 'pose_estimation.egg-info/SOURCES.txt'
+[6.965s] running build_ext
+[6.965s] Creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages/pose-estimation.egg-link (link to .)
+[6.970s] Installing pose_estimation script to /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/pose_estimation
+[6.970s] 
+[6.970s] Installed /home/kenji/Lakbay_Akbay_ros/build/pose_estimation
+[6.976s] running symlink_data
+[6.976s] creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index
+[6.977s] creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index/resource_index
+[6.977s] creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index/resource_index/packages
+[6.977s] symbolically linking /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/resource/pose_estimation -> /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index/resource_index/packages
+[6.977s] symbolically linking /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/pose_estimation
+[7.085s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/pose_estimation' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/pose_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/build --no-deps symlink_data

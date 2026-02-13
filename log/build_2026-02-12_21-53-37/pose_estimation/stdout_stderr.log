@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating pose_estimation.egg-info
+writing pose_estimation.egg-info/PKG-INFO
+writing dependency_links to pose_estimation.egg-info/dependency_links.txt
+writing entry points to pose_estimation.egg-info/entry_points.txt
+writing requirements to pose_estimation.egg-info/requires.txt
+writing top-level names to pose_estimation.egg-info/top_level.txt
+writing manifest file 'pose_estimation.egg-info/SOURCES.txt'
+reading manifest file 'pose_estimation.egg-info/SOURCES.txt'
+writing manifest file 'pose_estimation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/python3.12/site-packages/pose-estimation.egg-link (link to .)
+Installing pose_estimation script to /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/lib/pose_estimation
+
+Installed /home/kenji/Lakbay_Akbay_ros/build/pose_estimation
+running symlink_data
+creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index
+creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index/resource_index
+creating /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/resource/pose_estimation -> /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/pose_estimation/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/pose_estimation/share/pose_estimation

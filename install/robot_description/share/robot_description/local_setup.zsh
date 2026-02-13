@@ -1,0 +1,1 @@
+/home/kenji/Lakbay_Akbay_ros/build/robot_description/ament_cmake_environment_hooks/local_setup.zsh
