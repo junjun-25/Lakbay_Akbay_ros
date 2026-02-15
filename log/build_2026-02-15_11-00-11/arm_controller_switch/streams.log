@@ -1,0 +1,24 @@
+[3.256s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/build --no-deps symlink_data
+[4.886s] running develop
+[6.096s] running egg_info
+[6.097s] creating arm_controller_switch.egg-info
+[6.177s] writing arm_controller_switch.egg-info/PKG-INFO
+[6.181s] writing dependency_links to arm_controller_switch.egg-info/dependency_links.txt
+[6.181s] writing entry points to arm_controller_switch.egg-info/entry_points.txt
+[6.190s] writing requirements to arm_controller_switch.egg-info/requires.txt
+[6.191s] writing top-level names to arm_controller_switch.egg-info/top_level.txt
+[6.191s] writing manifest file 'arm_controller_switch.egg-info/SOURCES.txt'
+[6.335s] reading manifest file 'arm_controller_switch.egg-info/SOURCES.txt'
+[6.336s] writing manifest file 'arm_controller_switch.egg-info/SOURCES.txt'
+[6.414s] running build_ext
+[6.414s] Creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/lib/python3.12/site-packages/arm-controller-switch.egg-link (link to .)
+[6.416s] Installing arm_controller_switch script to /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/lib/arm_controller_switch
+[6.417s] 
+[6.418s] Installed /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch
+[6.418s] running symlink_data
+[6.418s] creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index
+[6.419s] creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index/resource_index
+[6.419s] creating /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index/resource_index/packages
+[6.419s] symbolically linking /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/resource/arm_controller_switch -> /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/ament_index/resource_index/packages
+[6.419s] symbolically linking /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/share/arm_controller_switch
+[7.136s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/arm_controller_switch/build --no-deps symlink_data

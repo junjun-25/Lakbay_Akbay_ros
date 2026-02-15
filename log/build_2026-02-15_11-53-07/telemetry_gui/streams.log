@@ -1,0 +1,17 @@
+[5.459s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/build --no-deps symlink_data
+[6.598s] running develop
+[7.412s] running egg_info
+[7.524s] writing telemetry_gui.egg-info/PKG-INFO
+[7.526s] writing dependency_links to telemetry_gui.egg-info/dependency_links.txt
+[7.528s] writing entry points to telemetry_gui.egg-info/entry_points.txt
+[7.528s] writing requirements to telemetry_gui.egg-info/requires.txt
+[7.529s] writing top-level names to telemetry_gui.egg-info/top_level.txt
+[7.694s] reading manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+[7.696s] writing manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+[7.751s] running build_ext
+[7.751s] Creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages/telemetry-gui.egg-link (link to .)
+[7.752s] Installing telemetry_gui script to /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/telemetry_gui
+[7.752s] 
+[7.753s] Installed /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui
+[7.753s] running symlink_data
+[7.822s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/build --no-deps symlink_data

@@ -1,0 +1,9 @@
+source;share/telemetry_gui/hook/pythonpath.ps1
+source;share/telemetry_gui/hook/pythonpath.dsv
+source;share/telemetry_gui/hook/pythonpath.sh
+source;share/telemetry_gui/hook/ament_prefix_path.ps1
+source;share/telemetry_gui/hook/ament_prefix_path.dsv
+source;share/telemetry_gui/hook/ament_prefix_path.sh
+source;../../build/telemetry_gui/share/telemetry_gui/hook/pythonpath_develop.ps1
+source;../../build/telemetry_gui/share/telemetry_gui/hook/pythonpath_develop.dsv
+source;../../build/telemetry_gui/share/telemetry_gui/hook/pythonpath_develop.sh

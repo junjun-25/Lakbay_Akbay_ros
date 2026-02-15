@@ -1,0 +1,32 @@
+[0.176s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/Lakbay_Akbay_ros/install/usb_camera:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation:/home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kenji/Lakbay_Akbay_ros/build/robot_description -- -j4 -l4
+[1.257s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/Lakbay_Akbay_ros/install/usb_camera:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation:/home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kenji/Lakbay_Akbay_ros/build/robot_description -- -j4 -l4
+[1.297s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/Lakbay_Akbay_ros/install/usb_camera:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation:/home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kenji/Lakbay_Akbay_ros/build/robot_description
+[2.115s] -- Install configuration: ""
+[2.115s] -- Execute custom install script
+[2.116s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/urdf/robot_arm.urdf
+[2.116s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/base_link.STL
+[2.116s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link1.STL
+[2.118s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link2.STL
+[2.119s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link3.STL
+[2.120s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link4.STL
+[2.121s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link5.STL
+[2.122s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/link6.STL
+[2.122s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/meshes/tool.STL
+[2.123s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/launch/display.launch.py
+[2.125s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/config/config.rviz
+[2.125s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[2.126s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[2.126s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[2.127s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[2.127s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/path.sh
+[2.127s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/environment/path.dsv
+[2.131s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.bash
+[2.131s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.sh
+[2.131s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.zsh
+[2.132s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/local_setup.dsv
+[2.132s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/package.dsv
+[2.132s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[2.133s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[2.133s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[2.133s] -- Up-to-date symlink: /home/kenji/Lakbay_Akbay_ros/install/robot_description/share/robot_description/package.xml
+[2.133s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/Lakbay_Akbay_ros/install/usb_camera:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui:/home/kenji/Lakbay_Akbay_ros/install/pose_estimation:/home/kenji/Lakbay_Akbay_ros/install/arm_controller_switch:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kenji/Lakbay_Akbay_ros/build/robot_description

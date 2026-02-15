@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating usb_camera.egg-info
+writing usb_camera.egg-info/PKG-INFO
+writing dependency_links to usb_camera.egg-info/dependency_links.txt
+writing entry points to usb_camera.egg-info/entry_points.txt
+writing requirements to usb_camera.egg-info/requires.txt
+writing top-level names to usb_camera.egg-info/top_level.txt
+writing manifest file 'usb_camera.egg-info/SOURCES.txt'
+reading manifest file 'usb_camera.egg-info/SOURCES.txt'
+writing manifest file 'usb_camera.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/python3.12/site-packages/usb-camera.egg-link (link to .)
+Installing usb_camera script to /home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/usb_camera
+
+Installed /home/kenji/Lakbay_Akbay_ros/build/usb_camera
+running symlink_data
+creating /home/kenji/Lakbay_Akbay_ros/install/usb_camera/share/ament_index
+creating /home/kenji/Lakbay_Akbay_ros/install/usb_camera/share/ament_index/resource_index
+creating /home/kenji/Lakbay_Akbay_ros/install/usb_camera/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/usb_camera/resource/usb_camera -> /home/kenji/Lakbay_Akbay_ros/install/usb_camera/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/usb_camera/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/usb_camera/share/usb_camera

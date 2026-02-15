@@ -1,0 +1,17 @@
+[2.847s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/usb_camera': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/usb_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/usb_camera/build --no-deps symlink_data
+[3.886s] running develop
+[4.329s] running egg_info
+[4.368s] writing usb_camera.egg-info/PKG-INFO
+[4.368s] writing dependency_links to usb_camera.egg-info/dependency_links.txt
+[4.369s] writing entry points to usb_camera.egg-info/entry_points.txt
+[4.369s] writing requirements to usb_camera.egg-info/requires.txt
+[4.369s] writing top-level names to usb_camera.egg-info/top_level.txt
+[4.448s] reading manifest file 'usb_camera.egg-info/SOURCES.txt'
+[4.449s] writing manifest file 'usb_camera.egg-info/SOURCES.txt'
+[4.489s] running build_ext
+[4.490s] Creating /home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/python3.12/site-packages/usb-camera.egg-link (link to .)
+[4.490s] Installing usb_camera script to /home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/usb_camera
+[4.491s] 
+[4.491s] Installed /home/kenji/Lakbay_Akbay_ros/build/usb_camera
+[4.491s] running symlink_data
+[4.562s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/usb_camera' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/usb_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/usb_camera/build --no-deps symlink_data

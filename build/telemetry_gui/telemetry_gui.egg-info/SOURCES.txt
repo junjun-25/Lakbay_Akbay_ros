@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/telemetry_gui
+telemetry_gui/__init__.py
+telemetry_gui/telemetry_gui_node.py
+telemetry_gui/telemetry_ui.py
+telemetry_gui.egg-info/PKG-INFO
+telemetry_gui.egg-info/SOURCES.txt
+telemetry_gui.egg-info/dependency_links.txt
+telemetry_gui.egg-info/entry_points.txt
+telemetry_gui.egg-info/requires.txt
+telemetry_gui.egg-info/top_level.txt
+telemetry_gui.egg-info/zip-safe

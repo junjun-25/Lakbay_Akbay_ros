@@ -1,0 +1,94 @@
+[0.651s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kenji/Lakbay_Akbay_ros/src/topic_based_hardware_interfaces/joint_state_topic_hardware_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface
+[0.816s] -- The CXX compiler identification is GNU 13.3.0
+[0.867s] -- Detecting CXX compiler ABI info
+[1.131s] -- Detecting CXX compiler ABI info - done
+[1.164s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.167s] -- Detecting CXX compile features
+[1.170s] -- Detecting CXX compile features - done
+[1.206s] -- Found ros2_control_cmake: 0.3.0 (/opt/ros/jazzy/share/ros2_control_cmake/cmake)
+[1.207s] -- Compiler warnings enabled for GNU
+[1.207s] -- Detected GCC Version: 13.3.0 (Major: 13, Minor: 3)
+[1.236s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.943s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.199s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.608s] -- Found angles: 1.16.1 (/opt/ros/jazzy/share/angles/cmake)
+[2.638s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.967s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[3.075s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[3.227s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.384s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.017s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[4.083s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[4.939s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[5.084s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[5.218s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.017s] -- Found hardware_interface: 4.42.2 (/opt/ros/jazzy/share/hardware_interface/cmake)
+[8.992s] -- Found ament_cmake_gmock: 2.5.5 (/opt/ros/jazzy/share/ament_cmake_gmock/cmake)
+[9.021s] -- Found ros2_control_test_assets: 4.42.2 (/opt/ros/jazzy/share/ros2_control_test_assets/cmake)
+[9.046s] -- Found gmock sources under '/opt/ros/jazzy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[9.184s] -- The C compiler identification is GNU 13.3.0
+[9.231s] -- Detecting C compiler ABI info
+[9.568s] -- Detecting C compiler ABI info - done
+[9.621s] -- Check for working C compiler: /usr/bin/cc - skipped
+[9.621s] -- Detecting C compile features
+[9.622s] -- Detecting C compile features - done
+[9.685s] -- Found ament_cmake_gtest: 2.5.5 (/opt/ros/jazzy/share/ament_cmake_gtest/cmake)
+[9.690s] -- Found gtest sources under '/opt/ros/jazzy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[9.727s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[9.800s] -- Found launch_testing_ament_cmake: 3.4.10 (/opt/ros/jazzy/share/launch_testing_ament_cmake/cmake)
+[9.826s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[10.243s] -- Found PythonExtra: /usr/bin/python3  
+[10.636s] -- Configuring done (10.0s)
+[10.935s] -- Generating done (0.2s)
+[10.972s] -- Build files have been written to: /home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface
+[11.020s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kenji/Lakbay_Akbay_ros/src/topic_based_hardware_interfaces/joint_state_topic_hardware_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface
+[11.021s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface -- -j4 -l4
+[11.397s] [  7%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/jazzy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[11.433s] [ 15%] [32mBuilding CXX object CMakeFiles/joint_state_topic_hardware_interface.dir/src/joint_state_topic_hardware_interface.cpp.o[0m
+[11.443s] [ 23%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[11.474s] [ 30%] [32mBuilding CXX object CMakeFiles/jtc_client_position.dir/test/rrr/jtc_client_position.cpp.o[0m
+[15.928s] [ 38%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[16.383s] [ 38%] Built target gmock_main
+[16.413s] [ 46%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[22.193s] [ 53%] [32mBuilding CXX object CMakeFiles/test_gripper.dir/test/gripper/test_gripper.cpp.o[0m
+[24.618s] [ 61%] [32m[1mLinking CXX static library libgmock.a[0m
+[24.905s] [ 61%] Built target gmock
+[27.222s] [ 69%] [32m[1mLinking CXX executable jtc_client_position[0m
+[27.904s] [ 69%] Built target jtc_client_position
+[32.161s] [ 76%] [32m[1mLinking CXX executable test_gripper[0m
+[32.506s] [ 76%] Built target test_gripper
+[34.412s] [ 84%] [32m[1mLinking CXX shared library libjoint_state_topic_hardware_interface.so[0m
+[35.302s] [ 84%] Built target joint_state_topic_hardware_interface
+[35.352s] [ 92%] [32mBuilding CXX object CMakeFiles/joint_state_topic_hardware_interface_test.dir/test/joint_state_topic_hardware_interface_test.cpp.o[0m
+[45.901s] [100%] [32m[1mLinking CXX executable joint_state_topic_hardware_interface_test[0m
+[46.733s] [100%] Built target joint_state_topic_hardware_interface_test
+[46.763s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface -- -j4 -l4
+[46.766s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface
+[46.784s] -- Install configuration: ""
+[46.785s] -- Execute custom install script
+[46.785s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface//joint_state_topic_hardware_interface_plugin_description.xml
+[46.808s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/environment/library_path.sh
+[46.829s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/environment/library_path.dsv
+[46.852s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/ament_index/resource_index/package_run_dependencies/joint_state_topic_hardware_interface
+[46.872s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/ament_index/resource_index/parent_prefix_path/joint_state_topic_hardware_interface
+[46.892s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/environment/ament_prefix_path.sh
+[46.916s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/environment/ament_prefix_path.dsv
+[46.938s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/environment/path.sh
+[46.961s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/environment/path.dsv
+[46.982s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/local_setup.bash
+[47.003s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/local_setup.sh
+[47.024s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/local_setup.zsh
+[47.048s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/local_setup.dsv
+[47.071s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/package.dsv
+[47.095s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/ament_index/resource_index/packages/joint_state_topic_hardware_interface
+[47.119s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/joint_state_topic_hardware_interface
+[47.141s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/cmake/ament_cmake_export_targets-extras.cmake
+[47.165s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[47.185s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/cmake/joint_state_topic_hardware_interfaceConfig.cmake
+[47.208s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/cmake/joint_state_topic_hardware_interfaceConfig-version.cmake
+[47.231s] -- Symlinking: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/package.xml
+[47.254s] -- Installing: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/lib/libjoint_state_topic_hardware_interface.so
+[47.261s] -- Set non-toolchain portion of runtime path of "/home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/lib/libjoint_state_topic_hardware_interface.so" to ""
+[47.262s] -- Installing: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/cmake/joint_state_topic_hardware_interfaceTargetsExport.cmake
+[47.262s] -- Installing: /home/kenji/Lakbay_Akbay_ros/install/joint_state_topic_hardware_interface/share/joint_state_topic_hardware_interface/cmake/joint_state_topic_hardware_interfaceTargetsExport-noconfig.cmake
+[47.267s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kenji/ros2_ws/install/usb_camera:/home/kenji/ros2_ws/install/telemetry_gui:/home/kenji/ros2_ws/install/simple_gui:/home/kenji/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kenji/Lakbay_Akbay_ros/build/joint_state_topic_hardware_interface

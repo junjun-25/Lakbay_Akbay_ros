@@ -1,0 +1,24 @@
+[4.133s] Invoking command in '/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/build --no-deps symlink_data
+[5.275s] running develop
+[6.684s] running egg_info
+[6.684s] creating telemetry_gui.egg-info
+[6.766s] writing telemetry_gui.egg-info/PKG-INFO
+[6.767s] writing dependency_links to telemetry_gui.egg-info/dependency_links.txt
+[6.768s] writing entry points to telemetry_gui.egg-info/entry_points.txt
+[6.768s] writing requirements to telemetry_gui.egg-info/requires.txt
+[6.768s] writing top-level names to telemetry_gui.egg-info/top_level.txt
+[6.769s] writing manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+[6.937s] reading manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+[6.938s] writing manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+[7.018s] running build_ext
+[7.019s] Creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages/telemetry-gui.egg-link (link to .)
+[7.019s] Installing telemetry_gui script to /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/telemetry_gui
+[7.020s] 
+[7.020s] Installed /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui
+[7.021s] running symlink_data
+[7.021s] creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index
+[7.029s] creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index/resource_index
+[7.030s] creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index/resource_index/packages
+[7.030s] symbolically linking /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/resource/telemetry_gui -> /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index/resource_index/packages
+[7.030s] symbolically linking /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/telemetry_gui
+[7.137s] Invoked command in '/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/build --no-deps symlink_data

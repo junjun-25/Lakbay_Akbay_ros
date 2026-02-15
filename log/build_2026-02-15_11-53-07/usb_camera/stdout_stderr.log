@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing usb_camera.egg-info/PKG-INFO
+writing dependency_links to usb_camera.egg-info/dependency_links.txt
+writing entry points to usb_camera.egg-info/entry_points.txt
+writing requirements to usb_camera.egg-info/requires.txt
+writing top-level names to usb_camera.egg-info/top_level.txt
+reading manifest file 'usb_camera.egg-info/SOURCES.txt'
+writing manifest file 'usb_camera.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/python3.12/site-packages/usb-camera.egg-link (link to .)
+Installing usb_camera script to /home/kenji/Lakbay_Akbay_ros/install/usb_camera/lib/usb_camera
+
+Installed /home/kenji/Lakbay_Akbay_ros/build/usb_camera
+running symlink_data

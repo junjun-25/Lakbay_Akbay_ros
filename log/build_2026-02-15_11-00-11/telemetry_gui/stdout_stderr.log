@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating telemetry_gui.egg-info
+writing telemetry_gui.egg-info/PKG-INFO
+writing dependency_links to telemetry_gui.egg-info/dependency_links.txt
+writing entry points to telemetry_gui.egg-info/entry_points.txt
+writing requirements to telemetry_gui.egg-info/requires.txt
+writing top-level names to telemetry_gui.egg-info/top_level.txt
+writing manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+reading manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+writing manifest file 'telemetry_gui.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/python3.12/site-packages/telemetry-gui.egg-link (link to .)
+Installing telemetry_gui script to /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/lib/telemetry_gui
+
+Installed /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui
+running symlink_data
+creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index
+creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index/resource_index
+creating /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/resource/telemetry_gui -> /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/ament_index/resource_index/packages
+symbolically linking /home/kenji/Lakbay_Akbay_ros/build/telemetry_gui/package.xml -> /home/kenji/Lakbay_Akbay_ros/install/telemetry_gui/share/telemetry_gui
